@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "247148725014",
+    "firebase_url": "https://fapp-ad399-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fapp-ad399",
+    "storage_bucket": "fapp-ad399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247148725014:android:233735e05725751707c637",
+        "android_client_info": {
+          "package_name": "com.example.careYourFriends"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSp3RE5r0oCFZBVY47i-LgGjXAMcet21M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247148725014:android:0e07036b8b54d70b07c637",
+        "android_client_info": {
+          "package_name": "com.example.peopleorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSp3RE5r0oCFZBVY47i-LgGjXAMcet21M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
